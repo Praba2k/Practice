@@ -1,3 +1,4 @@
 Hello World!
-This is a test file.
-Version 1
+This is an updated test file.
+Version 2
+New line added here
